@@ -99,3 +99,11 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 		position: absolute;
 		top: 40%;
 	}
+
+	.main{
+		background-color: #DDB9A3;
+	}
+
+	footer{
+		background-color: #F9E7DC;
+	}
